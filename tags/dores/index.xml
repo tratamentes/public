@@ -83,6 +83,8 @@
 
 
 
+    
+
 
 
 
@@ -92,12 +94,14 @@
     
 
 
-<figure class="     paige-figure " >
+<figure class=" d-flex    justify-content-center    paige-figure " >
+    
+        <div  class=" overflow-auto"   style="width: 75%" >
     
 
     
 
-    <div class="text-center"><img   class="img-fluid rounded"  crossorigin="anonymous"   height="827"  loading="lazy" referrerpolicy="no-referrer" src="/img/classificacao-da-dor-de-acordo-com-a-iasp-2021.341622c90f2bab450f500f2408a7bc50c030785057aa51a22705c59101207a2a.png"    width="1128" ></div>
+    <div class="text-center"><img  alt="Gráfico com a classificação da dor de acordo com a IASP 2021"   class="img-fluid rounded"  crossorigin="anonymous"   height="827"  loading="lazy" referrerpolicy="no-referrer" src="/img/classificacao-da-dor-de-acordo-com-a-iasp-2021.341622c90f2bab450f500f2408a7bc50c030785057aa51a22705c59101207a2a.png"   title="Gráfico estilo mindmap com a classificação da dor de acordo com a IASP 2021"   width="1128" ></div>
 
     
         <figcaption class="figure-caption  text-center" >Classificação da dor de acordo com a IASP 2021</figcaption>
@@ -105,6 +109,8 @@
 
     
 
+    
+        </div>
     
 </figure>
 
