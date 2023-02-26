@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="//tratamentes.pt/tags/code/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>code · Tratamentes</description><language>pt-pt</language><link>//tratamentes.pt/tags/code/</link><title>code · Tratamentes</title><item><description><![CDATA[<p>Paige provides a <code>paige/code</code> shortcode for displaying code.</p>
+<p>Code:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go-text-template" data-lang="go-text-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">paige</span><span class="err">/</span><span class="nx">code</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
+</span></span></span><span class="line"><span class="cl"><span class="x">q = &#39;q = %r; print(q %% q)&#39;; print(q % q)
+</span></span></span><span class="line"><span class="cl"><span class="x"></span><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">paige</span><span class="err">/</span><span class="nx">code</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
+</span></span></span></code></pre></div><p>Result:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<figure class="     paige-figure " >
+    
+
+    
+
+    <div class="text-center"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-plaintext" data-lang="plaintext"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">q = &#39;q = %r; print(q %% q)&#39;; print(q % q)
+</span></span></code></pre></div></div>
+
+    
+
+    
+
+    
+</figure>
+
+
+<hr>
+<p>Code:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go-text-template" data-lang="go-text-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">paige</span><span class="err">/</span><span class="nx">code</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
+</span></span></span><span class="line"><span class="cl"><span class="x">                       ---
+</span></span></span><span class="line"><span class="cl"><span class="x">                    -        --
+</span></span></span><span class="line"><span class="cl"><span class="x">                --( /     \ )XXXXXXXXXXXXX
+</span></span></span><span class="line"><span class="cl"><span class="x">            --XXX(   O   O  )XXXXXXXXXXXXXXX-
+</span></span></span><span class="line"><span class="cl"><span class="x">           /XXX(       U     )        XXXXXXX\
+</span></span></span><span class="line"><span class="cl"><span class="x">         /XXXXX(              )--   XXXXXXXXXXX\
+</span></span></span><span class="line"><span class="cl"><span class="x">        /XXXXX/ (      O     )   XXXXXX   \XXXXX\
+</span></span></span><span class="line"><span class="cl"><span class="x">        XXXXX/   /            XXXXXX   \   \XXXXX----
+</span></span></span><span class="line"><span class="cl"><span class="x">        XXXXXX  /          XXXXXX         \  ----  -
+</span></span></span><span class="line"><span class="cl"><span class="x">---     XXX  /          XXXXXX      \           ---
+</span></span></span><span class="line"><span class="cl"><span class="x">  --  --  /      /\  XXXXXX            /     ---=
+</span></span></span><span class="line"><span class="cl"><span class="x">    -        /    XXXXXX              &#39;--- XXXXXX
+</span></span></span><span class="line"><span class="cl"><span class="x">      --\/XXX\ XXXXXX                      /XXXXX
+</span></span></span><span class="line"><span class="cl"><span class="x">        \XXXXXXXXX                        /XXXXX/
+</span></span></span><span class="line"><span class="cl"><span class="x">         \XXXXXX                         /XXXXX/
+</span></span></span><span class="line"><span class="cl"><span class="x">           \XXXXX--  /                -- XXXX/
+</span></span></span><span class="line"><span class="cl"><span class="x">            --XXXXXXX---------------  XXXXX--
+</span></span></span><span class="line"><span class="cl"><span class="x">               \XXXXXXXXXXXXXXXXXXXXXXXX-
+</span></span></span><span class="line"><span class="cl"><span class="x">                 --XXXXXXXXXXXXXXXXXX-
+</span></span></span><span class="line"><span class="cl"><span class="x"></span><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">paige</span><span class="err">/</span><span class="nx">code</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
+</span></span></span></code></pre></div><p>Result:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<figure class="     paige-figure " >
+    
+
+    
+
+    <div class="text-center"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-plaintext" data-lang="plaintext"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">                       ---
+</span></span><span class="line"><span class="cl">                    -        --
+</span></span><span class="line"><span class="cl">                --( /     \ )XXXXXXXXXXXXX
+</span></span><span class="line"><span class="cl">            --XXX(   O   O  )XXXXXXXXXXXXXXX-
+</span></span><span class="line"><span class="cl">           /XXX(       U     )        XXXXXXX\
+</span></span><span class="line"><span class="cl">         /XXXXX(              )--   XXXXXXXXXXX\
+</span></span><span class="line"><span class="cl">        /XXXXX/ (      O     )   XXXXXX   \XXXXX\
+</span></span><span class="line"><span class="cl">        XXXXX/   /            XXXXXX   \   \XXXXX----
+</span></span><span class="line"><span class="cl">        XXXXXX  /          XXXXXX         \  ----  -
+</span></span><span class="line"><span class="cl">---     XXX  /          XXXXXX      \           ---
+</span></span><span class="line"><span class="cl">  --  --  /      /\  XXXXXX            /     ---=
+</span></span><span class="line"><span class="cl">    -        /    XXXXXX              &#39;--- XXXXXX
+</span></span><span class="line"><span class="cl">      --\/XXX\ XXXXXX                      /XXXXX
+</span></span><span class="line"><span class="cl">        \XXXXXXXXX                        /XXXXX/
+</span></span><span class="line"><span class="cl">         \XXXXXX                         /XXXXX/
+</span></span><span class="line"><span class="cl">           \XXXXX--  /                -- XXXX/
+</span></span><span class="line"><span class="cl">            --XXXXXXX---------------  XXXXX--
+</span></span><span class="line"><span class="cl">               \XXXXXXXXXXXXXXXXXXXXXXXX-
+</span></span><span class="line"><span class="cl">                 --XXXXXXXXXXXXXXXXXX-
+</span></span></code></pre></div></div>
+
+    
+
+    
+
+    
+</figure>
+
+
+<hr>
+<p>Code:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go-text-template" data-lang="go-text-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">paige</span><span class="err">/</span><span class="nx">code</span><span class="w"> </span><span class="nx">lang</span><span class="o">=</span><span class="s">&#34;c&#34;</span><span class="w"> </span><span class="nx">options</span><span class="o">=</span><span class="s">&#34;linenos=true,hl_lines=10&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
+</span></span></span><span class="line"><span class="cl"><span class="x">float Q_rsqrt( float number )
+</span></span></span><span class="line"><span class="cl"><span class="x">{
+</span></span></span><span class="line"><span class="cl"><span class="x">	long i;
+</span></span></span><span class="line"><span class="cl"><span class="x">	float x2, y;
+</span></span></span><span class="line"><span class="cl"><span class="x">	const float threehalfs = 1.5F;
+</span></span></span><span class="line"><span class="cl"><span class="x">
+</span></span></span><span class="line"><span class="cl"><span class="x">	x2 = number * 0.5F;
+</span></span></span><span class="line"><span class="cl"><span class="x">	y  = number;
+</span></span></span><span class="line"><span class="cl"><span class="x">	i  = * ( long * ) &amp;y;
+</span></span></span><span class="line"><span class="cl"><span class="x">	i  = 0x5f3759df - ( i &gt;&gt; 1 );
+</span></span></span><span class="line"><span class="cl"><span class="x">	y  = * ( float * ) &amp;i;
+</span></span></span><span class="line"><span class="cl"><span class="x">	y  = y * ( threehalfs - ( x2 * y * y ) );
+</span></span></span><span class="line"><span class="cl"><span class="x">
+</span></span></span><span class="line"><span class="cl"><span class="x">	return y;
+</span></span></span><span class="line"><span class="cl"><span class="x">}
+</span></span></span><span class="line"><span class="cl"><span class="x"></span><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">paige</span><span class="err">/</span><span class="nx">code</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
+</span></span></span></code></pre></div><p>Result:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<figure class="     paige-figure " >
+    
+
+    
+
+    <div class="text-center"><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="hl"><span class="lnt">10
+</span></span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kt">float</span> <span class="nf">Q_rsqrt</span><span class="p">(</span> <span class="kt">float</span> <span class="n">number</span> <span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">	<span class="kt">long</span> <span class="n">i</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">	<span class="kt">float</span> <span class="n">x2</span><span class="p">,</span> <span class="n">y</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">	<span class="k">const</span> <span class="kt">float</span> <span class="n">threehalfs</span> <span class="o">=</span> <span class="mf">1.5F</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="n">x2</span> <span class="o">=</span> <span class="n">number</span> <span class="o">*</span> <span class="mf">0.5F</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">	<span class="n">y</span>  <span class="o">=</span> <span class="n">number</span><span class="p">;</span>
+</span></span><span class="line hl"><span class="cl">	<span class="n">i</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">long</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">y</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">	<span class="n">i</span>  <span class="o">=</span> <span class="mh">0x5f3759df</span> <span class="o">-</span> <span class="p">(</span> <span class="n">i</span> <span class="o">&gt;&gt;</span> <span class="mi">1</span> <span class="p">);</span>
+</span></span><span class="line"><span class="cl">	<span class="n">y</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">float</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">i</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">	<span class="n">y</span>  <span class="o">=</span> <span class="n">y</span> <span class="o">*</span> <span class="p">(</span> <span class="n">threehalfs</span> <span class="o">-</span> <span class="p">(</span> <span class="n">x2</span> <span class="o">*</span> <span class="n">y</span> <span class="o">*</span> <span class="n">y</span> <span class="p">)</span> <span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="k">return</span> <span class="n">y</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div></div>
+
+    
+
+    
+
+    
+</figure>]]></description><guid>//tratamentes.pt/shortcodes/code/</guid><link>//tratamentes.pt/shortcodes/code/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><title>Code Shortcode</title></item></channel></rss>
