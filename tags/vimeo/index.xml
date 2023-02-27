@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="//tratamentes.pt/tags/vimeo/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>vimeo · Tratamentes</description><language>pt-pt</language><link>//tratamentes.pt/tags/vimeo/</link><title>vimeo · Tratamentes</title><item><description><![CDATA[<p>Paige provides a <code>paige/vimeo</code> shortcode for playing Vimeo videos.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/tags/vimeo/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>vimeo · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/tags/vimeo/</link><title>vimeo · Tratamentes</title><item><description><![CDATA[<p>Paige provides a <code>paige/vimeo</code> shortcode for playing Vimeo videos.</p>
 <h2 id="basic">Basic</h2>
 <p>Code:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go-text-template" data-lang="go-text-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">paige</span><span class="err">/</span><span class="nx">vimeo</span><span class="w"> </span><span class="s">&#34;644036051&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
@@ -462,4 +462,4 @@
     
 
     
-</figure>]]></description><guid>//tratamentes.pt/shortcodes/vimeo/</guid><link>//tratamentes.pt/shortcodes/vimeo/</link><pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate><title>Vimeo Shortcode</title></item></channel></rss>
+</figure>]]></description><guid>https://tratamentes.pt/shortcodes/vimeo/</guid><link>https://tratamentes.pt/shortcodes/vimeo/</link><pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate><title>Vimeo Shortcode</title></item></channel></rss>

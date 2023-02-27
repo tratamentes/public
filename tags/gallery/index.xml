@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="//tratamentes.pt/tags/gallery/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>gallery · Tratamentes</description><language>pt-pt</language><link>//tratamentes.pt/tags/gallery/</link><title>gallery · Tratamentes</title><item><description><![CDATA[<p>Paige provides a <code>paige/gallery</code> shortcode for displaying a list of images.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/tags/gallery/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>gallery · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/tags/gallery/</link><title>gallery · Tratamentes</title><item><description><![CDATA[<p>Paige provides a <code>paige/gallery</code> shortcode for displaying a list of images.</p>
 <p>See the images in the example site to understand how the below file patterns work.
 Resize the viewport as narrow and wide as you can to see the responsiveness.</p>
 <p>Code:</p>
@@ -12288,4 +12288,4 @@ Resize the viewport as narrow and wide as you can to see the responsiveness.</p>
     </figure>
 
 
-<div class="text-center">Photos by <a href="https://unsplash.com/@photos_by_lanty">Lanty</a>.</div>]]></description><guid>//tratamentes.pt/shortcodes/gallery/</guid><link>//tratamentes.pt/shortcodes/gallery/</link><pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate><title>Gallery Shortcode</title></item></channel></rss>
+<div class="text-center">Photos by <a href="https://unsplash.com/@photos_by_lanty">Lanty</a>.</div>]]></description><guid>https://tratamentes.pt/shortcodes/gallery/</guid><link>https://tratamentes.pt/shortcodes/gallery/</link><pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate><title>Gallery Shortcode</title></item></channel></rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="//tratamentes.pt/tags/youtube/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>youtube · Tratamentes</description><language>pt-pt</language><link>//tratamentes.pt/tags/youtube/</link><title>youtube · Tratamentes</title><item><description><![CDATA[<p>Paige provides a <code>paige/youtube</code> shortcode for playing YouTube videos.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/tags/youtube/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>youtube · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/tags/youtube/</link><title>youtube · Tratamentes</title><item><description><![CDATA[<p>Paige provides a <code>paige/youtube</code> shortcode for playing YouTube videos.</p>
 <p>Code:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go-text-template" data-lang="go-text-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">paige</span><span class="err">/</span><span class="nx">youtube</span><span class="w"> </span><span class="s">&#34;dQw4w9WgXcQ&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span><span class="x">
 </span></span></span></code></pre></div><p>Result:</p>
@@ -367,4 +367,4 @@
     
 
     
-</figure>]]></description><guid>//tratamentes.pt/shortcodes/youtube/</guid><link>//tratamentes.pt/shortcodes/youtube/</link><pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><title>YouTube Shortcode</title></item></channel></rss>
+</figure>]]></description><guid>https://tratamentes.pt/shortcodes/youtube/</guid><link>https://tratamentes.pt/shortcodes/youtube/</link><pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><title>YouTube Shortcode</title></item></channel></rss>
