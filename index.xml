@@ -16882,15 +16882,15 @@ Don't believe everything you read on the Internet.</blockquote></div>
         </div>
     
 </figure>]]></description><guid>//tratamentes.pt/shortcodes/figure/</guid><link>//tratamentes.pt/shortcodes/figure/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><title>Figure Shortcode</title></item><item><description><![CDATA[<p>Por favor prencha o formulário abaixo.</p>
-<form name="contact"  method="post" action="form-contact.php">
+<form name="contact"  method="post" action="/contact/form-contact.php">
     <div class="input">
         <input type="text" placeholder="Nome" id="name" name="name" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
     </div>
     <div class="input">
-        <input type="text" placeholder="Email" id="mail" name="mail" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
+        <input type="text" placeholder="Email" id="email" name="email" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
     </div>
     <div class="input">
-        <input type="text" placeholder="Titulo" id="title" name="title" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
+        <input type="text" placeholder="Titulo" id="subject" name="subject" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
     </div>
     <div class="input">
         <textarea rows="5" cols="30" placeholder="Mensagem" id="message" name="message" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required></textarea>
@@ -16901,4 +16901,5 @@ Don't believe everything you read on the Internet.</blockquote></div>
 
 <hr>
 <p>Em alternativa pode telefonar ou enviar mensagem para <a href="tel:+351934452743">+351 934 452 743</a></p>
-]]></description><guid>//tratamentes.pt/contact/</guid><link>//tratamentes.pt/contact/</link><title>Contato</title></item><item><guid>//tratamentes.pt/search/</guid><link>//tratamentes.pt/search/</link><title>Pesquisar</title></item></channel></rss>
+]]></description><guid>//tratamentes.pt/contact/</guid><link>//tratamentes.pt/contact/</link><title>Contato</title></item><item><guid>//tratamentes.pt/search/</guid><link>//tratamentes.pt/search/</link><title>Pesquisar</title></item><item><description><![CDATA[<p>&ldquo;2. Obrigado pela submissão. Entraremos em contacto consigo em breve.&rdquo;</p>
+]]></description><guid>//tratamentes.pt/contact/thank-you/</guid><link>//tratamentes.pt/contact/thank-you/</link><title>Thank You</title></item></channel></rss>
