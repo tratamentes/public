@@ -508,24 +508,4 @@ Price: 60 euros</p>
 <p>Hsu W, Guo S, Chang C. Back massage intervention for improving health and sleep quality among intensive care unit patients. Nurs Crit Care. 2019;24(5):313-319. doi:10.1111/nicc.12428&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></description><guid>//tratamentes.pt/en/blog/os-beneficios-da-massagem-regular/</guid><link>//tratamentes.pt/en/blog/os-beneficios-da-massagem-regular/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><title>The benefits of regular massage</title></item><item><description><![CDATA[<p>Please fill in the form below.</p>
-<form name="contact"  method="post" action="/contact/form-contact.php">
-    <div class="input">
-        <input type="text" placeholder="Name" id="name" name="name" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
-    </div>
-    <div class="input">
-        <input type="text" placeholder="Email" id="email" name="email" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
-    </div>
-    <div class="input">
-        <input type="text" placeholder="Title" id="subject" name="subject" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
-    </div>
-    <div class="input">
-        <textarea rows="5" cols="30" placeholder="Message" id="message" name="message" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required></textarea>
-    </div>
-    <input type="hidden" name="token" value="<?php echo generate_token(); ?>">
-    <input type="submit" value="Submit" class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
-</form>
-
-<hr>
-<p>Alternatively you can call or send a message to <a href="tel:+351934452743">+351 934 452 743</a></p>
-]]></description><guid>//tratamentes.pt/en/contact/</guid><link>//tratamentes.pt/en/contact/</link><title>Contact</title></item><item><guid>//tratamentes.pt/en/search/</guid><link>//tratamentes.pt/en/search/</link><title>Search</title></item></channel></rss>
+</div>]]></description><guid>//tratamentes.pt/en/blog/os-beneficios-da-massagem-regular/</guid><link>//tratamentes.pt/en/blog/os-beneficios-da-massagem-regular/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><title>The benefits of regular massage</title></item><item><guid>//tratamentes.pt/en/search/</guid><link>//tratamentes.pt/en/search/</link><title>Search</title></item><item><description>Thank you for your submission. We will contact you shortly.</description><guid>//tratamentes.pt/en/contact/thank-you/</guid><link>//tratamentes.pt/en/contact/thank-you/</link><title>Thank You</title></item></channel></rss>
