@@ -31,6 +31,7 @@ $_SESSION['token'] = bin2hex(random_bytes(32));
     // Get current time
     date_default_timezone_set('UTC');
     $time = date('Y-m-d H:i:s');
+    $credo = 'Name:' . $name . '<br>email:' . $email . '<br>phone:' . $phone . '<br>subject:' . $subject . '<br>message:' . $message . '<br>ip:' . $ip . '<br>time:' . $time;
     // Airtable API parameters
     $api_key = AIRTABLE_API_KEY;
     $base_id = AIRTABLE_BASE_ID;
@@ -48,6 +49,7 @@ $_SESSION['token'] = bin2hex(random_bytes(32));
             'Phone' => $phone,
             'Subject' => $subject,
             'Message' => $message,
+            'Credo' => $credo,
             'IP Address' => $ip,
             'Time' => $time
         )
@@ -67,7 +69,7 @@ $_SESSION['token'] = bin2hex(random_bytes(32));
         die('Error sending data to Airtable API');
     }
     // Redirect to thank-you page
-    header('Location: ../contact/thank-you.html');
+    header('Location: ../contact/thank-you/');
     exit;
 }
 ?>
