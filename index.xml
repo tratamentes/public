@@ -867,7 +867,7 @@ Valor: 60 €</p>
 </li>
 </ol>
 </div>]]></description><guid>https://tratamentes.pt/blog/os-beneficios-da-massagem-regular/</guid><link>https://tratamentes.pt/blog/os-beneficios-da-massagem-regular/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><title>Os benefícios da massagem regular</title></item><item><description><![CDATA[<p>Por favor prencha o formulário abaixo.</p>
-<form method="post" action="/contact/form-contact.py">
+<form method="post" action="/contact/form-contact">
       <label for="name">Name:</label>
       <input type="text" id="name" name="name">
       <button type="submit">Submit</button>
