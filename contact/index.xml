@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/contact/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>Contacto · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/contact/</link><title>Contacto · Tratamentes</title><item><description><![CDATA[<p>Por favor prencha o formulário abaixo.</p>
-<form method="post" action="https://maisjoaogoulart.pt/contact/form-contact">
-      <label for="name">Name:</label>
-      <input type="text" id="name" name="name">
-      <button type="submit">Submit</button>
-    </form>
-<hr>
-<p>Em alternativa pode telefonar ou enviar mensagem para <a href="tel:+351934452743">+351 934 452 743</a></p>
-]]></description><guid>https://tratamentes.pt/contact/fc/</guid><link>https://tratamentes.pt/contact/fc/</link><title>Contacto</title></item><item><description><![CDATA[<p class="lead text-center">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/contact/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>Contacto · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/contact/</link><title>Contacto · Tratamentes</title><item><description><![CDATA[<p class="lead text-center">
 <a href="https://buk.pt/tratamentes?header=false&footer=false">Agende aqui a sua sessão.</a>
 </p>
 ]]></description><guid>https://tratamentes.pt/contact/thank-you/</guid><link>https://tratamentes.pt/contact/thank-you/</link><title>Obrigado</title></item></channel></rss>
