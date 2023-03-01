@@ -2,7 +2,7 @@
 // Verify the reCAPTCHA token
 $recaptcha_token = $_POST['recaptcha_token'];
 $curl = curl_init();
-curl_setopt($curl, CURLOPT_URL, 'https://recaptchaenterprise.googleapis.com/v1beta1/projects/YOUR_PROJECT_ID/assessments?key=6LekDMEkAAAAAKr7waboa7h0gd1i-0ZmJXgNnZIW');
+curl_setopt($curl, CURLOPT_URL, 'https://recaptchaenterprise.googleapis.com/v1beta1/projects/website-tratamentes-pt/assessments?key=6LekDMEkAAAAAKr7waboa7h0gd1i-0ZmJXgNnZIW');
 curl_setopt($curl, CURLOPT_POST, true);
 curl_setopt($curl, CURLOPT_POSTFIELDS, json_encode([
   'event' => [
