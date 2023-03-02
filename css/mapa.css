@@ -1,0 +1,7 @@
+.map {max-width: 100%;
+    width: 25rem;
+    height: 12.5rem;
+    background: url(/svg/marker.svg) center calc(50% - 1rem) / auto 2rem no-repeat, url(/img/mapa-clinica-parque.webp) center center / cover no-repeat;
+    position: relative;
+    display: block;
+}
