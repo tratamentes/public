@@ -1,0 +1,23 @@
+---
+description: Holistic Therapies
+paige:
+    home:
+        blurb: "My name is João Goulart, visceral, musculoskeletal and wellness massage technician. I provide personalized massage services in my office and in the comfort of your home. 
+
+With a combination of integrative [massages and therapies](/en/services), suitable for each client, whose objective is to achieve balance, promote relaxation and relieve their pain."
+        greeting: Each session is designed to leave you with a sense of well-being and balance.
+        image:
+            stretch: true
+            url: "/img/imagemhomecomlogotipo.webp"
+    main:
+        metadata:
+            reading_time:
+                hide: true
+            title: 
+                class: display-1 fw-bold text-center
+title: 
+---
+
+<p class="lead text-center">
+<a href="en/book-online">Book you session online.</a>
+</p>
