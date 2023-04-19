@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 285.74999 285.75"
+   version="1.1"
+   id="svg539"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="e-invertido.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title681">Logo e invertido</title>
+  <sodipodi:namedview
+     id="namedview541"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.50646226"
+     inkscape:cx="299.13384"
+     inkscape:cy="579.51011"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs536">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2557-4-9-5">
+      <path
+         d="M 56.406965,49.850048 H 175.54096 V 179.05897 H 56.406965 Z"
+         clip-rule="evenodd"
+         id="path2559-5-5-7"
+         style="stroke-width:1.52813" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="e invertido"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 109.34331,54.856266 c -13.904139,4.923519 -30.812251,15.53088 -38.787562,29.73695 -12.487926,22.244204 -20.137547,52.681104 -8.126823,76.096864 6.242302,12.16981 19.339271,18.14216 33.015327,18.33189 18.281108,0.25362 39.254688,-9.87501 53.425158,-23.13402 13.63717,-12.75999 23.56086,-36.60137 25.62743,-49.8231 2.17726,-13.929909 0.56416,-19.039803 -1.33893,-19.024162 -1.9031,0.01564 1.3881,29.704442 -30.79916,62.105762 -16.35757,16.46637 -40.24234,23.3933 -59.335175,15.97647 -8.792023,-3.41536 -14.299439,-17.01594 -15.191773,-23.87236 -0.892326,-6.85641 -0.328941,-20.52902 6.649125,-21.42549 25.138214,-3.22947 51.944583,-6.15722 74.804263,-18.6547 6.95272,-3.801084 12.50433,-11.71501 13.48295,-19.578283 1.17162,-9.414116 -2.11941,-21.259773 -9.90442,-26.681214 -11.90457,-8.290283 -29.84561,-4.896911 -43.5204,-0.05461 l -1e-5,4e-6 z m 23.93072,3.292641 c 3.79254,-0.02813 7.05637,0.629089 10.00455,1.731159 5.89639,2.204143 9.66315,7.249657 11.47734,12.645225 1.84093,5.475037 0.84348,11.994278 -1.52808,17.261231 -7.35754,16.340328 -56.818302,22.982798 -75.966426,25.161368 -13.136376,1.49458 2.441063,-24.594794 11.029304,-34.37451 8.588234,-9.779717 21.680082,-16.763741 31.806332,-20.043221 5.06311,-1.63974 9.38443,-2.353123 13.17698,-2.381248 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path573-7-9-7-6-7"
+       clip-path="url(#clipPath2557-4-9-5)"
+       transform="matrix(-2.0697666,0,0,2.1306815,382.91397,-100.9904)"
+       inkscape:label="Desenho-e-invertido" />
+  </g>
+  <metadata
+     id="metadata679">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Logo e invertido</dc:title>
+        <dc:date>01/01/2023</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>João Goulart</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>João Goulart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>TrataMentes</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>Português</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
