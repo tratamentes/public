@@ -1,124 +1,157 @@
-<style>
-            header {
-                display: flex;
-                justify-content: space-between;
-                align-items: center; /* Alinha os itens verticalmente no centro */
-            }
+<style>header {
+    display: flex;
+    /* Ativa Flexbox no cabeçalho */
+    justify-content: space-between;
+    /* Espaça os itens uniformemente */
+    align-items: center;
+    /* Alinha verticalmente ao centro */
+    padding: 10px 20px;
+    /* Padding para dar um pouco de espaço */
+}
 
-            nav a {
-                margin-left: 10px; /* Espaço entre o texto e o link */
-            }
-            /* Estilo para tornar o iframe responsivo */
-            .map-container {
-                position: relative;
-                overflow: hidden;
-                width: 50%;
-                padding-top: 56.25%; /* Proporção de 16:9, ajuste conforme necessário */
-            }
+nav a {
+    text-decoration: none;
+    /* Remove o sublinhado dos links */
+    color: inherit;
+    /* Herda a cor do texto pai */
+    margin-left: 10px;
+    /* Espaço entre o texto "Ligue para:" e o número de telefone */
+}
 
-            .map-container iframe {
-                position: absolute;
-                top: 0;
-                left: 0;
-                width: 100%;
-                height: 100%;
-            }
+@media(max-width: 767px) {
+    header {
+        flex-direction: column;
+        /* Muda para disposição de coluna em telas pequenas */
+        align-items: flex-start;
+        /* Alinha à esquerda */
+    }
 
-            .video-container {
-                position: relative;
-                width: 100%;
-                height: 0;
-                padding-bottom: 56.25%; /* Relação de aspecto 16:9 */
-                overflow: hidden;
-            }
+    nav {
+        margin-top: 10px;
+        /* Espaço entre o logotipo e o número de telefone em telas pequenas */
+    }
+}
 
-            video {
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                width: 100%;
-                height: auto;
-                z-index: -1;
-            }
+/* Estilo para tornar o iframe responsivo */
+.map-container {
+    position: relative;
+    overflow: hidden;
+    width: 50%;
+    padding-top: 56.25%;
+    /* Proporção de 16:9, ajuste conforme necessário */
+}
 
-            .video-overlay {
-                position: absolute;
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                text-align: center;
-                background: rgba(0, 0, 0, 0.5); /* Fundo preto semi-transparente */
-            }
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
-            .video-overlay h1,
-            .video-overlay h2,
-            .video-overlay p {
-                color: white;
-                margin: 0.5em;
-            }
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    /* Relação de aspecto 16:9 */
+    overflow: hidden;
+}
 
-            .video-overlay button {
-                padding: 10px 20px;
-                border: none;
-                background-color: #0099cc;
-                color: white;
-                cursor: pointer;
-                margin-top: 20px;
-            }
+video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
 
-            .quoted {
-                margin: 25px 10px;
-                padding: 25px;
-                border-radius: 10px;
-                box-shadow: inset 0 0 40px #07605e31;
-            }
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    /* Fundo preto semi-transparente */
+}
+
+.video-overlay h1,
+.video-overlay h2,
+.video-overlay p {
+    color: white;
+    margin: 0.5em;
+}
+
+.video-overlay button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #0099cc;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.quoted {
+    margin: 25px 10px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 40px #07605e31;
+}
 
 
-            /* Estilos CSS */
+/* Estilos CSS */
 
-            .testimonial {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 20px;
-                align-items: center;
-            }
+.testimonial {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+}
 
-            blockquote {
-                flex: 1;
-                border-left: 4px solid #008080;
-                padding-left: 15px;
-            }
+blockquote {
+    flex: 1;
+    border-left: 4px solid #008080;
+    padding-left: 15px;
+}
 
-            .testimonial-image-link {
-                width: 200px; /* Largura fixa para desktop */
-                overflow: hidden;
-                border-radius: 10px;
-                box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-            }
+.testimonial-image-link {
+    width: 200px;
+    /* Largura fixa para desktop */
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
 
-            .testimonial img {
-                display: block;
-                max-width: 100%;
-                height: auto;
-            }
+.testimonial img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 
-            /* Para dispositivos pequenos, a imagem atua mais como um ícone à direita */
-            @media(max-width: 767px) {
-                .testimonial-image-link {
-                    width: 60px; /* Reduzido para a largura de um ícone */
-                }
-                blockquote {
-                    flex: 0 0 calc(100% - 80px); /* Ocupa o espaço restante, menos o espaço para o ícone e algum espaço adicional */
-                }
-            }
-            .highlight {
-                background-color: yellow; /* This is just a suggestion for the color; adjust as necessary */
-            }
+/* Para dispositivos pequenos, a imagem atua mais como um ícone à direita */
+@media(max-width: 767px) {
+    .testimonial-image-link {
+        width: 60px;
+        /* Reduzido para a largura de um ícone */
+    }
 
-        </style>
+    blockquote {
+        flex: 0 0 calc(100% - 80px);
+        /* Ocupa o espaço restante, menos o espaço para o ícone e algum espaço adicional */
+    }
+}
+
+.highlight {
+    background-color: yellow;
+    /* This is just a suggestion for the color; adjust as necessary */
+}
+
+</style>
