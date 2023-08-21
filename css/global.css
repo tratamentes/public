@@ -1,0 +1,700 @@
+/*Title class for the navigation menu*/
+.menutitle a:link,
+.menutitle a:visited,
+.menutitle a:hover,
+.menutitle a:active {
+    color:#fff;
+	text-decoration:none;
+}
+/*Login App Forms*/
+.usermessage {
+	color:#900;
+}
+.userframe {
+	width:100%;
+}
+.userframe h4 {
+	padding:0;
+	margin-bottom:8px;
+}
+.userframe p {
+	margin:10px 0;
+}
+.userframeinner {
+	width:220px;
+	background-color:#DDD;
+	color:#333;
+	border:2px solid #999;
+	padding:0 10px;
+	margin:0;
+}
+.userform {
+	margin:0;
+}
+.userframecenter {
+	width:150px;
+	margin:0 auto;
+}
+.usersubmit {
+	color:#333;
+	font-weight:bold;
+}
+/*User class for the navigation menu*/
+.menuuser {
+  	line-height:14px;
+	font-size:9px;
+	color:#666;
+    background:#fff;
+	border-bottom:1px solid #CFC7CE;
+	font-weight:bold;
+	padding:2px 0 3px 0;
+	margin:0;
+}
+.menuuser a:link,
+.menuuser a:visited {
+	color:#00C;
+	text-decoration:underline;
+}
+.menuuser a:hover {
+	color:#F00;
+	text-decoration:none;
+}
+.menuuser a:active {
+	color:#F00;
+	text-decoration:underline;
+}
+.menuuser form {
+	margin:0;
+	padding:0;
+}
+.menuuser select {
+	width:150px;
+	font-size:10px;
+	margin:4px;
+}
+.menuuser option {
+	margin:0 0 2px 2px;
+	padding:0 0 2px 2px;
+}
+/*User alert classes*/
+#useralertbar {
+	overflow:hidden;
+	height:0;
+	width:100%;
+	top:0;
+	margin-bottom:10px;
+	position:relative;
+	z-index:100;
+}
+#useralertinner {
+	background:#ffd url(//www.awai.com/_img/alert.gif) 5px 9px no-repeat;
+	border-bottom:1px solid #999;
+	padding:5px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	height:auto;
+	margin:0;
+	width:100%;
+}
+#useralertmessage {
+	float:left;
+	padding:4px 25px;
+	font-size:10px;
+	line-height:16px;
+}
+#useralertclose {
+	float:right;
+	padding:4px 10px;
+	cursor:pointer;
+}
+#useralertbutton {
+	float:right;
+	padding:1px 10px;
+}
+/* Comment Style for JS Rollovers - prepares/prehides comments */
+div.comment {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background:none;
+	visibility:hidden;
+	position:absolute;
+	width:358px;
+	overflow:hidden;
+	padding:0;
+	margin:0;
+	z-index:100;
+}
+.commentlink {
+	cursor:help;
+}
+.comtop {
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='//www.awai.com/_images/comments/comments.top.png');
+	background-image:url(//www.awai.com/_images/comments/comments.top.png);
+	background-repeat:no-repeat;
+	padding:0;
+	height:17px;
+	width:358px;
+	margin:0;
+	line-height:1px;
+	font-size:1px;
+}
+.combg {
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='//www.awai.com/_images/comments/comments.bg.png');
+	background-image:url(//www.awai.com/_images/comments/comments.bg.png);
+	background-repeat:repeat-y;
+	padding:0;
+	width:358px;
+	margin:0;
+	margin-top:0;
+}
+.comtext {
+	margin:0 24px 0 15px;
+	padding:0;
+}
+div.comment h1,
+div.comment h2,
+div.comment h3,
+div.comment h4,
+div.comment h5,
+div.comment h6 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:14px;
+	font-weight:bold;
+	border-bottom:#000000 solid 1px;
+	margin-top:0;
+	margin-bottom:3px;
+	padding-top:0;
+	padding-bottom:5px;
+}
+div.comment p {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin-top:6px;
+	margin-bottom:0;
+	padding-bottom:2px;
+	font-size:11px;
+	line-height:15px;
+}
+div.comment hr {
+	font-size:10px;
+	line-height:10px;
+	width:100%;
+	border-width:1px;
+	border-style:solid;
+	border-color:#000000;
+}
+.combot {
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='//www.awai.com/_images/comments/comments.bottom.png');
+	background-image:url(//www.awai.com/_images/comments/comments.bottom.png);
+	background-repeat:no-repeat;
+	padding:0;
+	height:17px;
+	width:358px;
+	margin:0;
+	line-height:1px;
+	font-size:1px;
+}
+/* Expand / Collapse Classes */
+a.expandable,
+a.collapsible {
+	display:block;
+	width:95%;
+	padding:3px 3px 3px 23px;
+	font-weight:bold;
+	border:1px solid;
+}
+/*expandable link class definitions*/
+a.expandable {
+	background:#f0f0f0 url(//www.awai.com/_images/bullets/expand.gif) 5px center no-repeat;
+	border-color:#ababab;
+}
+/*collapsible link class definitions*/
+a.collapsible {
+	background:#e7ffff url(//www.awai.com/_images/bullets/collapse.gif) 5px center no-repeat;
+	border-color:#879595;
+}
+a.expandable:link,
+a.expandable:visited,
+a.collapsible:link,
+a.collapsible:visited {
+	color:#000;
+	text-decoration:none;
+}
+a.expandable:hover,
+a.collapsible:hover {
+	color:#c00;
+}
+a.expandable:active,
+a.collapsible:active {
+	color:#000;
+}
+p.expandbar {
+	display:block;
+	width:95%;
+	padding:1px 13px 2px 13px;
+	margin-top:2em;
+	margin-bottom:1em;
+	background-color:#feffd1;
+	border:1px solid #ababab;
+	text-decoration:none;
+	clear:both;
+}
+.collapsemessage {
+	float:right;
+	font-size:0.6em;
+	line-height:inherit;
+	font-weight:normal;
+	cursor:pointer;
+}
+a.expandable .collapsemessage {
+	display:none;
+}
+/* Captcha */
+img.captcha_image {
+	border:1px solid #cccccc;
+}
+
+/*	-------------------------------------------------------------
+
+	Semantic Classes
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+
+.pre-heading {
+/*	display:block;
+	margin:0 0 0.1em 0;
+	padding:0;*/
+	padding:0 0 0.1em 0;
+	font-size:0.7em;
+	line-height:1.2;
+	color:#666;
+}
+
+.byline {
+/*	display:block;
+	margin:0.1em 0 0 0;
+	padding:0;*/
+	padding:0.1em 0 0 0;
+	font-size:0.8em;
+	line-height:1.2;
+	font-style:italic;
+}
+
+.dateline {
+/*	display:block;
+	margin:0.2em 0 0 0;
+	padding:0;*/
+	padding:0.2em 0 0 0;
+	font-size:0.8em;
+	line-height:1.2;
+	font-weight:normal;
+	color:#999;
+}
+
+.caption {
+	font-size:0.9em;
+	line-height:1.4;
+	font-weight:bold;
+	color:#003;
+	text-align:center; /* Only applies when used on block-level elements */
+}
+
+.product-title {
+	font-weight:bold;
+	font-style:italic;
+}
+
+.error {
+	font-weight:bold;
+	color:#F00;
+}
+
+.urgent {
+	font-weight:bold;
+	font-style:italic;
+	color:#F00;
+}
+
+.warning {
+	font-weight:bold;
+	font-style:italic;
+	color:#F60;
+}
+
+.important {
+	font-weight:bold;
+	font-style:italic;
+}
+
+.memo,
+.letter {
+	font-family:"Courier New",Courier,monospace;
+	font-size:13px; /* PX size necessary to avoid tiny fonts in Safari */
+	line-height:18px;
+	color:#004;
+	margin-left:3%;
+	margin-right:3%;
+}
+
+.memo strong,
+.letter strong {
+	font-size:15px;
+}
+
+.memo a:link,
+.memo a:visited,
+.letter a:link,
+.letter a:visited {
+	text-decoration:underline;
+}
+
+.editors-note {
+	font-size:0.9em;
+	line-height:1.4;
+	color:#444;
+}
+
+div.editors-note,
+p.editors-note {
+	margin-left:3%;
+	margin-right:3%;
+}
+
+.cited {
+	text-align:right;
+	font-weight:bold;
+	font-style:italic;
+}
+
+div.cited {
+	margin:0.7em 3em; /* This should match the left and right margins for blockquote */
+}
+
+.clickable {
+	cursor:pointer;
+}
+
+/*	-------------------------------------------------------------
+
+	Floating Boxes (floats and margins specified by singles.css)
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+
+.box {
+	border:1px solid #CCC;
+	background-color:#FEFFD1;
+	padding:0.8em;
+	margin-bottom:1.4em;
+}
+
+.lbox.box { /* Do not change class order: IE6 multi-class bug */
+	width:200px;
+}
+
+.rbox.box { /* Do not change class order: IE6 multi-class bug */
+	width:200px;
+}
+
+.cbox.box { /* Do not change class order: IE6 multi-class bug */
+	width:85%;
+}
+
+.box { /* IMPORTANT!!! this works with the above to handle IE6 multi-class bug. Do not change */
+	width:auto;
+}
+
+.ibox.box {
+	padding:0.25em;
+	margin:0;
+}
+
+.box .box-title {
+	font-size:1.3em;
+	line-height:1.2;
+}
+
+.box blockquote {
+	margin:1em 0 0 0;
+}
+
+.box div.cited {
+	margin-left:0;
+	margin-right:0;
+}
+
+.box div,
+.box p,
+.box ul,
+.box ol,
+.box dl,
+.box li {
+	margin-bottom:0;
+}
+
+/*.box p + h1,
+.box p + h2,
+.box p + h3,
+.box p + h4,
+.box p + h5,
+.box p + h6,
+.box ul + h1,
+.box ul + h2,
+.box ul + h3,
+.box ul + h4,
+.box ul + h5,
+.box ul + h6,
+.box ol + h1,
+.box ol + h2,
+.box ol + h3,
+.box ol + h4,
+.box ol + h5,
+.box ol + h6,
+.box dl + h1,
+.box dl + h2,
+.box dl + h3,
+.box dl + h4,
+.box dl + h5,
+.box dl + h6 {
+	margin-top:1em;
+}*/
+
+.box > *:first-child,
+.box > *:first-child > *:first-child {
+	margin-top:0;
+}
+
+.box > .lbox:first-child + *,
+.box > .rbox:first-child + *,
+.box > .lfloat:first-child + *,
+.box > .rfloat:first-child + * { /*second-child if first-child has a known float class*/
+	margin-top:0;
+}
+
+.attention.box { /* Alert Style */
+	background-color:#FF9;
+	border:4px dashed #FC6;
+	color:#121212;
+	font-weight:bold;
+	font-size:13px;
+	line-height:1.4;/*17px;*/
+	padding:8px 8px 12px 8px;
+	text-align:center;
+	border-radius:5px;
+}
+
+.box-3 {
+	display:inline; /* IE6 float margin hack */
+	float:left;
+	width:32%;
+}
+.middle-box.box-3 { /* Do not change class order: IE6 multi-class bug */
+	margin-left:2%;
+	margin-right:2%;
+}
+.box-3 { /* IMPORTANT!!! this works with the above to handle IE6 multi-class bug. Do not change */
+	margin:0;
+}
+
+/*
+===========
+As of 06/10/2022, remove the .box-alt rules since these
+interfere with the intended e-letter styling, and this is
+no longer used on the website otherwise.
+
+- Jared
+===========
+
+.box-alt {
+	background-color: #d2d3d6;
+	border: 3px solid #797a7e;
+	display: block;
+	margin: 1em auto;
+	width: 85%;
+}
+.box-alt * {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+.box-alt h2 {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+.box-alt a {
+	background-color: #366cba;
+	border-radius: 4px;
+	display: block;
+	color: #fff;
+	font-size: 14.3px;
+	line-height: 20px;
+	margin-bottom: 13px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 13px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 8px;
+	text-align: center;
+	text-decoration: none;
+}
+.box-alt a:hover,
+.box-alt a:focus,
+.box-alt a:active {
+    color:#ff0;
+}
+*/
+
+/*	-------------------------------------------------------------
+
+	List Classes
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+
+.nostyle {
+	margin-left:0;
+	margin-right:0;
+}
+ul.nostyle li,
+ul.nostyle ul.nostyle li {
+	list-style:none !important;
+	list-style-image:none !important;
+}
+ul.nostyle li li {
+	list-style:inherit;
+	list-style-image:inherit;
+}
+.condensed li {
+	margin-top:0;
+	margin-bottom:0;
+}
+.half-spaced li {
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+}
+
+/*	-------------------------------------------------------------
+
+	Simple columns (widths specified by singles.css)
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+
+.column {
+	margin:0;
+	padding:0;
+	border:0;
+	float:left;
+}
+
+/*.columns-2,
+.columns-3,
+.columns-4,
+.columns-5 {
+	clear:both;
+}
+
+.columns-2 .column {
+	width:50%;
+}
+
+.columns-3 .column {
+	width:33%;
+}
+.columns-3 .double-column {
+	width:66%;
+}
+
+.columns-4 .column {
+	width:25%;
+}
+.columns-4 .double-column {
+	width:50%;
+}
+.columns-4 .triple-column {
+	width:75%;
+}
+
+.columns-5 .column {
+	width:20%;
+}
+.columns-5 .double-column {
+	width:40%;
+}
+.columns-5 .triple-column {
+	width:60%;
+}
+.columns-5 .quadruple-column {
+	width:80%;
+}*/
+
+/*	-------------------------------------------------------------
+
+	ClearFix
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {
+    clear:both;
+}
+/* For IE 6/7 only - Include this rule to trigger hasLayout and contain floats. */
+.cf {
+    zoom:1;
+}
+
+/*	-------------------------------------------------------------
+
+	Autocomplete
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+
+.ac_results {
+	padding:0;
+	border:1px solid black;
+	background-color:white;
+	overflow:hidden;
+	z-index:99999;
+}
+
+.ac_results ul {
+	width:100%;
+	list-style-position:outside;
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+
+.ac_results li {
+	margin:0;
+	padding:2px 5px;
+	cursor:default;
+	display:block;
+	/*
+	if width is set to 100% horizontal scrollbar will appear
+	when scroll mode is used
+	*/
+	/*width:100%;*/
+	font:menu;
+	font-size:12px;
+	/*
+	Important: if line-height is not set or is set
+	in relative units scroll will be broken in firefox
+	*/
+	line-height:16px;
+	overflow:hidden;
+}
+
+.ac_loading {
+	background:white url('indicator.gif') right center no-repeat;
+}
+
+.ac_odd {
+	background-color:#eee;
+}
+
+.ac_over {
+	background-color:#0A246A;
+	color:white;
+}

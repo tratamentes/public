@@ -1,1 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/en/categories/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>Categories · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/en/categories/</link><title>Categories · Tratamentes</title><item><guid>https://tratamentes.pt/en/categories/blog/</guid><link>https://tratamentes.pt/en/categories/blog/</link><title>blog</title></item><item><guid>https://tratamentes.pt/en/categories/lymphatic-system/</guid><link>https://tratamentes.pt/en/categories/lymphatic-system/</link><title>lymphatic-system</title></item><item><guid>https://tratamentes.pt/en/categories/massage/</guid><link>https://tratamentes.pt/en/categories/massage/</link><title>massage</title></item><item><guid>https://tratamentes.pt/en/categories/pain/</guid><link>https://tratamentes.pt/en/categories/pain/</link><title>pain</title></item><item><guid>https://tratamentes.pt/en/categories/massage-therapy/</guid><link>https://tratamentes.pt/en/categories/massage-therapy/</link><title>massage-therapy</title></item></channel></rss>
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://tratamentes.pt/en/categories/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+            <copyright>© Tratamentes</copyright>
+        
+        <description>Categories · Tratamentes</description>
+        
+            <language>pt-pt</language>
+        
+        
+        <link>https://tratamentes.pt/en/categories/</link>
+        
+        
+            <title>Categories · Tratamentes</title>
+        
+        
+        
+            <item>
+                
+                
+                
+                    <guid>https://tratamentes.pt/en/categories/blog/</guid>
+                    <link>https://tratamentes.pt/en/categories/blog/</link>
+                
+                
+                
+                    <title>blog</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://tratamentes.pt/en/categories/lymphatic-system/</guid>
+                    <link>https://tratamentes.pt/en/categories/lymphatic-system/</link>
+                
+                
+                
+                    <title>lymphatic-system</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://tratamentes.pt/en/categories/massage/</guid>
+                    <link>https://tratamentes.pt/en/categories/massage/</link>
+                
+                
+                
+                    <title>massage</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://tratamentes.pt/en/categories/pain/</guid>
+                    <link>https://tratamentes.pt/en/categories/pain/</link>
+                
+                
+                
+                    <title>pain</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://tratamentes.pt/en/categories/massage-therapy/</guid>
+                    <link>https://tratamentes.pt/en/categories/massage-therapy/</link>
+                
+                
+                
+                    <title>massage-therapy</title>
+                
+            </item>
+        
+    </channel>
+</rss>

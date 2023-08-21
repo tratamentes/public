@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/en/tags/relieve/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>relieve · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/en/tags/relieve/</link><title>relieve · Tratamentes</title><item><description><![CDATA[
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://tratamentes.pt/en/tags/relieve/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+            <copyright>© Tratamentes</copyright>
+        
+        <description>relieve · Tratamentes</description>
+        
+            <language>pt-pt</language>
+        
+        
+        <link>https://tratamentes.pt/en/tags/relieve/</link>
+        
+        
+            <title>relieve · Tratamentes</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[
 
 
 
@@ -122,7 +161,22 @@
 <li>The transportation up to 5km from the center of Parede, Cascais county, is included in the price. For distances over 5km, an additional fee of 1.20 euros per kilometer.</li>
 <li>Payments by MBWay, cash or immediate bank transfer.</li>
 </ul>
-]]></description><guid>https://tratamentes.pt/en/services/massagem-sueca/</guid><link>https://tratamentes.pt/en/services/massagem-sueca/</link><title>Swedish or Relaxation Massage</title></item><item><description><![CDATA[
+]]></description>
+                
+                
+                    <guid>https://tratamentes.pt/en/services/massagem-sueca/</guid>
+                    <link>https://tratamentes.pt/en/services/massagem-sueca/</link>
+                
+                
+                
+                    <title>Swedish or Relaxation Massage</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[
 
 
 
@@ -247,7 +301,22 @@
 <li>The transportation up to 5km from the center of Parede, Cascais county, is included in the price. For distances over 5km, an additional fee of 1.20 euros per kilometer.</li>
 <li>Payments by MBWay, cash or immediate bank transfer.</li>
 </ul>
-]]></description><guid>https://tratamentes.pt/en/services/massagem-terapeutica/</guid><link>https://tratamentes.pt/en/services/massagem-terapeutica/</link><title>Therapeutic Massage</title></item><item><description><![CDATA[
+]]></description>
+                
+                
+                    <guid>https://tratamentes.pt/en/services/massagem-terapeutica/</guid>
+                    <link>https://tratamentes.pt/en/services/massagem-terapeutica/</link>
+                
+                
+                
+                    <title>Therapeutic Massage</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[
 
 
 
@@ -391,4 +460,19 @@
 <p>A person can use lymphatic drainage massage techniques to help reduce swelling and improve circulation. An effectively functioning lymphatic system is essential for overall health.</p>
 <p>It is important to know that with proper care and treatment, it is possible to manage symptoms and improve quality of life.</p>
 <p>Learn more about how to book this <a href="/en/services/en/drenagem-linfatica-manual/">Lymphatic Manual Drainage</a> online</p>
-]]></description><guid>https://tratamentes.pt/en/blog/drenagem-linfatica-manual/</guid><link>https://tratamentes.pt/en/blog/drenagem-linfatica-manual/</link><pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate><title>Lymphatic Drainage Massage: What You Need to Know</title></item></channel></rss>
+]]></description>
+                
+                
+                    <guid>https://tratamentes.pt/en/blog/drenagem-linfatica-manual/</guid>
+                    <link>https://tratamentes.pt/en/blog/drenagem-linfatica-manual/</link>
+                
+                
+                    <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+                
+                
+                    <title>Lymphatic Drainage Massage: What You Need to Know</title>
+                
+            </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,11 @@
+/* Import the stylesheets available to all pages of the site */
+/* @import "../css/site.0823.css"; /* 1 */
+@import "../css/pessoal.css"; /* 97 */
+/* @import "../css/global.css"; /* 2 */
+/* @import "../css/jquery-ui.1001.css"; /* 3 */
+/* @import "../css/superfish.css"; /* 4 */
+/* --- @import "//www.awai.com/_css/thickbox.css"; /* 5 */
+/* @import "../css/magnific.0823.css"; /* 5 */
+/* @import "../css/redefine.css"; /* 6 */
+/* @import "../css/singles.0823.css"; /* 7 */
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"; /* 8 */

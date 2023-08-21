@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/tags/incha%C3%A7o/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>inchaço · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/tags/incha%C3%A7o/</link><title>inchaço · Tratamentes</title><item><description><![CDATA[
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://tratamentes.pt/tags/incha%C3%A7o/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+            <copyright>© Tratamentes</copyright>
+        
+        <description>inchaço · Tratamentes</description>
+        
+            <language>pt-pt</language>
+        
+        
+        <link>https://tratamentes.pt/tags/incha%C3%A7o/</link>
+        
+        
+            <title>inchaço · Tratamentes</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[
 
 
 
@@ -123,7 +162,22 @@
 Área até 20 km da clínica, taxa extra de 0,75€/km para além de 20 km. Seja em Casa, trabalho ou no seu quarto de hotel os materiais são fornecidos por mim.</li>
 <li>Pagamentos por MBWay, numerário ou transferência bancária imediata.</li>
 </ul>
-]]></description><guid>https://tratamentes.pt/services/massagem-sueca/</guid><link>https://tratamentes.pt/services/massagem-sueca/</link><title>Massagem Sueca ou de relaxamento</title></item><item><description><![CDATA[
+]]></description>
+                
+                
+                    <guid>https://tratamentes.pt/services/massagem-sueca/</guid>
+                    <link>https://tratamentes.pt/services/massagem-sueca/</link>
+                
+                
+                
+                    <title>Massagem Sueca ou de relaxamento</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[
 
 
 
@@ -249,7 +303,22 @@
 <li>A deslocação até 5km do centro da Parede, concelho de Cascais, está incluído no preço. Para distâncias superiores a 5km, acresce o valor de 1.20 € por kilometro.</li>
 <li>Pagamentos por MBWay ou numerário.</li>
 </ul>
-]]></description><guid>https://tratamentes.pt/services/massagem-terapeutica/</guid><link>https://tratamentes.pt/services/massagem-terapeutica/</link><title>Massagem Terapêutica</title></item><item><description><![CDATA[
+]]></description>
+                
+                
+                    <guid>https://tratamentes.pt/services/massagem-terapeutica/</guid>
+                    <link>https://tratamentes.pt/services/massagem-terapeutica/</link>
+                
+                
+                
+                    <title>Massagem Terapêutica</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[
 
 
 
@@ -393,4 +462,19 @@
 <p>Uma pessoa pode utilizar técnicas de massagem de drenagem linfática para ajudar a reduzir o inchaço e melhorar a circulação. Um sistema linfático a funcionar eficazmente é essencial para a saúde em geral.</p>
 <p>É importante saber que com os cuidados e tratamentos adequados é possível gerir os sintomas e melhorar a qualidade de vida.</p>
 <p>Saiba mais como agendar este serviço de <a href="/services/pt/drenagem-linfatica-manual/">Drenagem Manual Linfática</a></p>
-]]></description><guid>https://tratamentes.pt/blog/drenagem-linfatica-manual/</guid><link>https://tratamentes.pt/blog/drenagem-linfatica-manual/</link><pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate><title>Massagem de Drenagem Linfática: O que precisa de saber</title></item></channel></rss>
+]]></description>
+                
+                
+                    <guid>https://tratamentes.pt/blog/drenagem-linfatica-manual/</guid>
+                    <link>https://tratamentes.pt/blog/drenagem-linfatica-manual/</link>
+                
+                
+                    <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+                
+                
+                    <title>Massagem de Drenagem Linfática: O que precisa de saber</title>
+                
+            </item>
+        
+    </channel>
+</rss>

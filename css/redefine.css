@@ -1,0 +1,81 @@
+/*User alert classes*/
+#useralertbar {
+	margin-bottom:0;
+}
+
+/*Login form classes*/
+.userframe {
+	width:477px;
+	margin:0 auto;
+}
+.userframe-top {
+	background:#ffffff url(/_img/framework/misc/myawai_form-top.gif) bottom no-repeat;
+	width:477px;
+	padding:0 0 11px 0;
+	margin:0;
+}
+.userframe-bottom {
+	background:#e6e6e6 url(/_img/framework/misc/myawai_form-bottom.gif) bottom no-repeat;
+	width:427px;
+	padding:0 25px 17px 25px;
+	margin:0;
+}
+.userframe h1 {
+	font-size:48px;
+	line-height:48px;
+	margin:0 0 0 7px;
+	background:none;
+	color:#000000;
+	padding:0;
+	text-align:left;
+}
+.userframe h2 {
+	font-size:1.8em;
+	margin-top:0;
+	color:#4d4d4d;
+	font-weight:normal;
+}
+.userframe strong {
+	color:#004;
+}
+.userframe input#username,
+.userframe input#password,
+.userframe input#newpassword,
+.userframe input#verifynewpassword {
+	font-size:21px;
+	line-height:27px;
+	border:1px solid #999;
+	padding:2px;
+	width:220px;
+}
+.userframe input#username:focus,
+.userframe input#password:focus,
+.userframe input#newpassword:focus,
+.userframe input#verifynewpassword:focus {
+	border-color:#666;
+}
+.userframe input#username {
+	width:415px;
+}
+.userframe button {
+	font-size:20px;
+	border:1px solid #555;
+	height:31px;
+	line-height:27px;
+	padding:0 0 4px 0;
+	width:180px;
+	margin-left:15px;
+	background:#DDE7FF;
+	vertical-align:top;
+	text-align:center;
+}
+.userframe button:hover {
+	background:#D0E0FF;
+}
+.userframe #capslockwarning {
+	color:#ff0000;
+	font-size:10px;
+	display:none;
+	text-align:left;
+}
+

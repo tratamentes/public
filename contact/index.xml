@@ -1,3 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://tratamentes.pt/contact/index.xml" rel="self" type="application/rss+xml"/><copyright>© Tratamentes</copyright><description>Contacto · Tratamentes</description><language>pt-pt</language><link>https://tratamentes.pt/contact/</link><title>Contacto · Tratamentes</title><item><description>&lt;p class="lead text-center">
-&lt;a href="/book-online">Agende aqui a sua sessão.&lt;/a>
-&lt;/p></description><guid>https://tratamentes.pt/contact/thank-you/</guid><link>https://tratamentes.pt/contact/thank-you/</link><title>Obrigado</title></item></channel></rss>
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://tratamentes.pt/contact/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+            <copyright>© Tratamentes</copyright>
+        
+        <description>Contacto · Tratamentes</description>
+        
+            <language>pt-pt</language>
+        
+        
+        <link>https://tratamentes.pt/contact/</link>
+        
+        
+            <title>Contacto · Tratamentes</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[<p class="lead text-center">
+<a href="/book-online">Agende aqui a sua sessão.</a>
+</p>
+]]></description>
+                
+                
+                    <guid>https://tratamentes.pt/contact/thank-you/</guid>
+                    <link>https://tratamentes.pt/contact/thank-you/</link>
+                
+                
+                
+                    <title>Obrigado</title>
+                
+            </item>
+        
+    </channel>
+</rss>

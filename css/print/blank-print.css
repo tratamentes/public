@@ -1,0 +1,45 @@
+body {
+	background:none;
+	min-width:0;
+}
+.content-details .ratingblock,
+.content-details .syndication-note,
+.content-details .publication-signup,
+.content-details .content-ad,
+.content-details .add-comment,
+.content-details .sharing-panel,
+#editing-panel,
+#editing-alert {
+	display:none;
+	min-width:0;
+}
+.content {
+	margin:0;
+	padding:0;
+	min-width:0;
+	width:auto;
+	float:none;
+	clear:both;
+	overflow:visible;
+	background:none;
+	white-space:normal;
+}
+.print-masthead,
+.print-footer {
+	margin:0;
+	text-align:center;
+}
+@media screen {
+	.content,
+	.print-masthead,
+	.print-footer {
+		margin:2% 5%;
+	}
+}
+.print-masthead {
+	margin-bottom:0;
+}
+.no-print {
+	display:none;
+}
+
