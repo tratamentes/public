@@ -14,39 +14,41 @@ pre {
     font-family: 'Courier Prime', monospace;
 }
 
-header {
+
+/* Cabeçalho */
+.header {
     display: flex;
-    /* Ativa Flexbox no cabeçalho */
     justify-content: space-between;
-    /* Espaça os itens uniformemente */
     align-items: center;
-    /* Alinha verticalmente ao centro */
     padding: 10px 20px;
-    /* Padding para dar um pouco de espaço */
 }
 
-nav a {
+.logo {
+    flex: 1; /* Isso garante que o logotipo ocupe todo o espaço disponível à esquerda */
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+}
+
+.phone a {
     text-decoration: none;
-    /* Remove o sublinhado dos links */
     color: inherit;
-    /* Herda a cor do texto pai */
     margin-left: 10px;
-    /* Espaço entre o texto "Ligue para:" e o número de telefone */
 }
 
 @media(max-width: 767px) {
-    header {
+    .header {
         flex-direction: column;
-        /* Muda para disposição de coluna em telas pequenas */
         align-items: flex-start;
-        /* Alinha à esquerda */
     }
 
-    nav {
+    .phone {
         margin-top: 10px;
-        /* Espaço entre o logotipo e o número de telefone em telas pequenas */
     }
 }
+
 
 /* Estilo para tornar o iframe responsivo */
 .map-container {
