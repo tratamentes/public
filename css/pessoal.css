@@ -23,19 +23,12 @@ pre {
     padding: 10px 20px;
 }
 
-.logo {
-    flex: 1; /* Isso garante que o logotipo ocupe todo o espaço disponível à esquerda */
+.desktop-phone {
+    display: inline; /* Mostra o texto no desktop */
 }
 
-.phone {
-    display: flex;
-    align-items: center;
-}
-
-.phone a {
-    text-decoration: none;
-    color: inherit;
-    margin-left: 10px;
+.mobile-phone {
+    display: none; /* Esconde o link no desktop */
 }
 
 @media(max-width: 767px) {
@@ -44,11 +37,22 @@ pre {
         align-items: flex-start;
     }
 
+    .desktop-phone {
+        display: none; /* Esconde o texto no mobile */
+    }
+
+    .mobile-phone {
+        display: inline; /* Mostra o link no mobile */
+        text-decoration: none;
+        color: inherit;
+        margin-left: 10px;
+    }
+
     .phone {
         margin-top: 10px;
     }
 }
-
+/* fim de cabeçalho */
 
 /* Estilo para tornar o iframe responsivo */
 .map-container {
