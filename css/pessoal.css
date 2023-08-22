@@ -5,7 +5,10 @@ h1 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 700; /* Peso bold */
 }
-
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500; /* Peso bold */
+}
 em {
     font-family: 'Source Sans Pro', sans-serif;
     font-style: italic; /* Estilo itálico */
