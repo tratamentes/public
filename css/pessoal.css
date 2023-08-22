@@ -175,3 +175,15 @@ blockquote {
     background-color: yellow;
     /* This is just a suggestion for the color; adjust as necessary */
 }
+/* Layout Rules */
+.wrap {
+	margin: auto;
+	padding: 0 .5em;
+}
+
+@media screen and (min-width:37.5em) {
+	.wrap {
+		max-width: 36.5em;
+		padding: 0 .5em;
+	}
+}
