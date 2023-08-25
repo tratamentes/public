@@ -1,0 +1,131 @@
+/* Reset básico */
+body, h1, h2, h3, p, ul, li, a {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* Fonte legível */
+}
+
+/* Corpo */
+body {
+    color: #3a3a3c; /* Black Apple */
+    font-size: 22px;
+    font-family: 'Source Sans Pro', "Helvetica Neue Bold", "Helvetica Neue", Helvetica, "Arial Bold", Arial, sans-serif;
+    background-color: #f5f5f5; /* Branco Apple */
+    line-height: 1.6;
+}
+
+/* Títulos */
+h1 {
+    font-size: 2.5em; /* 250% do tamanho da fonte do corpo */
+    color: #3a3a3c; /* Black Apple */
+}
+
+h2 {
+    font-size: 2em; /* 200% do tamanho da fonte do corpo */
+    color: #3a3a3c; /* Black Apple */
+}
+
+h3 {
+    font-size: 1.75em; /* 175% do tamanho da fonte do corpo */
+}
+
+h4 {
+    font-size: 1.5em; /* 150% do tamanho da fonte do corpo */
+}
+
+/* Cabeçalho */
+header {
+    background-color: #e9f5f1; /* Verde */
+    color: #3a3a3c; /* Black Apple */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Seções */
+section {
+    padding: 20px;
+}
+
+/* Títulos */
+h1, h2 {
+    color: #3a3a3c; /* Black Apple */
+}
+
+/* Benefícios - Bullet Points com Checkmarks */
+#beneficios ul {
+    list-style-image: url('checkmark.png');
+}
+
+/* Depoimentos */
+#depoimentos {
+    background-color: #f5e9e2; /* Bege Desmaiado */
+    padding: 20px;
+}
+
+/* Chamada para Ação */
+.botao {
+    display: inline-block;
+    background-color: #e9f5f1; /* Verde */
+    color: #3a3a3c; /* Black Apple */
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Banner com Contador de Tempo */
+.banner {
+    background-color: #e9f5f1; /* Verde */
+    color: #3a3a3c; /* Black Apple */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Benefícios - Bullet Points com Checkmarks */
+#beneficios ul {
+    list-style-type: none; /* Remove os bullet points padrão */
+    padding-left: 0;
+}
+
+#beneficios li {
+    position: relative;
+    padding-left: 30px; /* Espaço para o ícone */
+}
+
+#beneficios li:before {
+    content: '\f058'; /* Código Unicode para o ícone fa-check-circle */
+    font-family: 'Font Awesome 5 Free'; /* Fonte FontAwesome */
+    font-weight: 900; /* Peso da fonte para o ícone a cheio */
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+/* Responsividade */
+@media screen and (max-width: 768px) {
+    /* Ajustes para dispositivos móveis */
+    header, section {
+        padding: 10px;
+    }
+}
+
+#introducao {
+    background-color: #e9f5f1; /* Verde suave */
+    padding: 20px;
+    text-align: center;
+}
+
+#introducao h2 {
+    color: #3a3a3c; /* Black Apple */
+    margin-bottom: 15px;
+}
+
+#introducao p {
+    margin-bottom: 15px;
+}
+
+#introducao .botao {
+    display: inline-block;
+    /* Estilos do botão já definidos anteriormente */
+}
