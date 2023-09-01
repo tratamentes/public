@@ -2,7 +2,7 @@ html {
     box-sizing: content-box;
 }
 
-body {
+html,body {
 	background:none;
 	margin:0;
 	padding:0;
@@ -10,6 +10,8 @@ body {
 .content {
 	margin:0;
 	padding:20px;
+	border-color: brown;
+	border-width: 5px;
 	width:auto;
 	float:none;
 	clear:both;
