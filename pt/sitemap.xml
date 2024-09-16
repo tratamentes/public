@@ -2,323 +2,331 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tratamentes.pt/services/massagem-sueca/</loc>
+    <loc>https://192.168.1.171:80/services/massagem-sueca/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/services/massagem-sueca/"
+                href="https://192.168.1.171:80/en/services/massagem-sueca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/services/massagem-sueca/"
+                href="https://192.168.1.171:80/services/massagem-sueca/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/services/massagem-terapeutica/</loc>
+    <loc>https://192.168.1.171:80/services/massagem-terapeutica/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/services/massagem-terapeutica/"
+                href="https://192.168.1.171:80/en/services/massagem-terapeutica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/services/massagem-terapeutica/"
+                href="https://192.168.1.171:80/services/massagem-terapeutica/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/</loc>
+    <loc>https://192.168.1.171:80/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/"
+                href="https://192.168.1.171:80/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/"
+                href="https://192.168.1.171:80/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/tags/aliviar/</loc>
+    <loc>https://192.168.1.171:80/tags/aliviar/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/categories/blog/</loc>
+    <loc>https://192.168.1.171:80/categories/blog/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/categories/blog/"
+                href="https://192.168.1.171:80/en/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/categories/blog/"
+                href="https://192.168.1.171:80/categories/blog/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/blog/</loc>
+    <loc>https://192.168.1.171:80/blog/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/blog/"
+                href="https://192.168.1.171:80/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/blog/"
+                href="https://192.168.1.171:80/blog/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/categories/</loc>
+    <loc>https://192.168.1.171:80/categories/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/categories/"
+                href="https://192.168.1.171:80/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/categories/"
+                href="https://192.168.1.171:80/categories/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/tags/dor/</loc>
+    <loc>https://192.168.1.171:80/tags/dor/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/edema/</loc>
+    <loc>https://192.168.1.171:80/tags/edema/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/tags/edema/"
+                href="https://192.168.1.171:80/en/tags/edema/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/tags/edema/"
+                href="https://192.168.1.171:80/tags/edema/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/tags/incha%C3%A7o/</loc>
+    <loc>https://192.168.1.171:80/tags/incha%C3%A7o/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/linf%C3%A1tico/</loc>
+    <loc>https://192.168.1.171:80/tags/linf%C3%A1tico/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/massagem/</loc>
+    <loc>https://192.168.1.171:80/tags/massagem/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/blog/drenagem-linfatica-manual/</loc>
+    <loc>https://192.168.1.171:80/blog/drenagem-linfatica-manual/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/blog/drenagem-linfatica-manual/"
+                href="https://192.168.1.171:80/en/blog/drenagem-linfatica-manual/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/blog/drenagem-linfatica-manual/"
+                href="https://192.168.1.171:80/blog/drenagem-linfatica-manual/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/categories/massagens/</loc>
+    <loc>https://192.168.1.171:80/categories/massagens/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/sa%C3%BAde/</loc>
+    <loc>https://192.168.1.171:80/tags/sa%C3%BAde/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/categories/sistema-linf%C3%A1tico/</loc>
+    <loc>https://192.168.1.171:80/categories/sistema-linf%C3%A1tico/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/</loc>
+    <loc>https://192.168.1.171:80/tags/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/tags/"
+                href="https://192.168.1.171:80/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/tags/"
+                href="https://192.168.1.171:80/tags/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/tags/bem-estar/</loc>
+    <loc>https://192.168.1.171:80/tags/bem-estar/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/dist%C3%BArbios/</loc>
+    <loc>https://192.168.1.171:80/tags/dist%C3%BArbios/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/categories/dores/</loc>
+    <loc>https://192.168.1.171:80/categories/dores/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/m%C3%BAsculo-esquel%C3%A9ticos/</loc>
+    <loc>https://192.168.1.171:80/tags/m%C3%BAsculo-esquel%C3%A9ticos/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/relaxamento/</loc>
+    <loc>https://192.168.1.171:80/tags/relaxamento/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/tens%C3%A3o/</loc>
+    <loc>https://192.168.1.171:80/tags/tens%C3%A3o/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/visceral/</loc>
+    <loc>https://192.168.1.171:80/tags/visceral/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/tags/visceral/"
+                href="https://192.168.1.171:80/en/tags/visceral/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/tags/visceral/"
+                href="https://192.168.1.171:80/tags/visceral/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/blog/viver-com-dor-cronica-em-portugal-compreender-as-causas-e-procurar-tratamento-eficaz/</loc>
+    <loc>https://192.168.1.171:80/blog/viver-com-dor-cronica-em-portugal-compreender-as-causas-e-procurar-tratamento-eficaz/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/tags/dist%C3%BArbios-m%C3%BAsculo-esquel%C3%A9ticos/</loc>
+    <loc>https://192.168.1.171:80/tags/dist%C3%BArbios-m%C3%BAsculo-esquel%C3%A9ticos/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tratamentes.pt/blog/os-beneficios-da-massagem-regular/</loc>
+    <loc>https://192.168.1.171:80/blog/os-beneficios-da-massagem-regular/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/blog/os-beneficios-da-massagem-regular/"
+                href="https://192.168.1.171:80/en/blog/os-beneficios-da-massagem-regular/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/blog/os-beneficios-da-massagem-regular/"
+                href="https://192.168.1.171:80/blog/os-beneficios-da-massagem-regular/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/book-online/</loc>
+    <loc>https://192.168.1.171:80/agende/sentado-a/</loc>
+  </url><url>
+    <loc>https://192.168.1.171:80/agende/sentado-b/</loc>
+  </url><url>
+    <loc>https://192.168.1.171:80/marque/</loc>
+  </url><url>
+    <loc>https://192.168.1.171:80/book-online/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/book-online/"
+                href="https://192.168.1.171:80/en/book-online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/book-online/"
+                href="https://192.168.1.171:80/book-online/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/contact/</loc>
+    <loc>https://192.168.1.171:80/agende/</loc>
+  </url><url>
+    <loc>https://192.168.1.171:80/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/contact/"
+                href="https://192.168.1.171:80/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/contact/"
+                href="https://192.168.1.171:80/contact/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/tags/desporto/</loc>
+    <loc>https://192.168.1.171:80/tags/desporto/</loc>
   </url><url>
-    <loc>https://tratamentes.pt/faq/</loc>
+    <loc>https://192.168.1.171:80/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/faq/"
+                href="https://192.168.1.171:80/en/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/faq/"
+                href="https://192.168.1.171:80/faq/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/mermaid/</loc>
+    <loc>https://192.168.1.171:80/mermaid/</loc>
   </url><url>
-    <loc>https://tratamentes.pt/tags/linfedema/</loc>
+    <loc>https://192.168.1.171:80/tags/linfedema/</loc>
   </url><url>
-    <loc>https://tratamentes.pt/categories/massagem-terapeutica/</loc>
+    <loc>https://192.168.1.171:80/categories/massagem-terapeutica/</loc>
   </url><url>
-    <loc>https://tratamentes.pt/morada/</loc>
+    <loc>https://192.168.1.171:80/morada/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/morada/"
+                href="https://192.168.1.171:80/en/morada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/morada/"
+                href="https://192.168.1.171:80/morada/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/contact/thank-you/</loc>
+    <loc>https://192.168.1.171:80/contact/thank-you/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/contact/thank-you/"
+                href="https://192.168.1.171:80/en/contact/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/contact/thank-you/"
+                href="https://192.168.1.171:80/contact/thank-you/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/search/</loc>
+    <loc>https://192.168.1.171:80/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/search/"
+                href="https://192.168.1.171:80/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/search/"
+                href="https://192.168.1.171:80/search/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/privacy/</loc>
+    <loc>https://192.168.1.171:80/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/privacy/"
+                href="https://192.168.1.171:80/en/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/privacy/"
+                href="https://192.168.1.171:80/privacy/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/tags/recupera%C3%A7%C3%A3o/</loc>
+    <loc>https://192.168.1.171:80/tags/recupera%C3%A7%C3%A3o/</loc>
   </url><url>
-    <loc>https://tratamentes.pt/services/</loc>
+    <loc>https://192.168.1.171:80/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/services/"
+                href="https://192.168.1.171:80/en/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/services/"
+                href="https://192.168.1.171:80/services/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/tags/stress/</loc>
+    <loc>https://192.168.1.171:80/tags/stress/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/tags/stress/"
+                href="https://192.168.1.171:80/en/tags/stress/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/tags/stress/"
+                href="https://192.168.1.171:80/tags/stress/"
                 />
   </url><url>
-    <loc>https://tratamentes.pt/terms/</loc>
+    <loc>https://192.168.1.171:80/terms/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tratamentes.pt/en/terms/"
+                href="https://192.168.1.171:80/en/terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tratamentes.pt/terms/"
+                href="https://192.168.1.171:80/terms/"
                 />
   </url>
 </urlset>

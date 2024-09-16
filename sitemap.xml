@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://tratamentes.pt/pt/sitemap.xml</loc>
+    <loc>https://192.168.1.171:80/pt/sitemap.xml</loc>
     
       <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://tratamentes.pt/en/sitemap.xml</loc>
+    <loc>https://192.168.1.171:80/en/sitemap.xml</loc>
     
       <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     
